@@ -1,7 +1,20 @@
 # Anand Nerurkar
 
-## Enterprise Architect | VP Technology | BFSI & AI Transformation Leader  
-Cloud (Azure | AWS | GCP) | Microservices | Event-Driven Architecture | GenAI
+## Enterprise Architect | VP Technology | BFSI & AI Transformation Leader
+
+---
+
+### Enterprise Technology Leader specializing in large-scale BFSI modernization, cloud-native transformation, and AI-driven banking platforms.
+
+---
+
+### Core Expertise
+Cloud (Azure | AWS | GCP) • Microservices Architecture • Event-Driven Systems • GenAI & Agentic AI • Digital Banking Platforms
+
+---
+
+### Domain Focus
+Digital Lending • Payments • Core Banking Modernization • AML / KYC / Compliance Systems • Risk & Fraud Platforms
 
 ---
 
