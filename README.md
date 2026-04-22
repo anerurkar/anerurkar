@@ -1,6 +1,6 @@
 # Anand Nerurkar
 
-## Enterprise Architect | VP Technology | BFSI & AI Transformation Leader
+##  VP Technology | Enterprise Architect | BFSI & AI Transformation Leader
 
 ---
 
